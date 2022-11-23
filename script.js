@@ -1,1 +1,2 @@
 
+//Burada javascript kodlari eklenecek
